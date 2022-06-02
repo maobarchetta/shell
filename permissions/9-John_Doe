@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+chamod 713 hello
